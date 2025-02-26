@@ -50,10 +50,9 @@
 | [**MS SQL**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/MS%20SQL%20-%20May%202024%20-%20Certificate.pdf) | SoftUni | Jun 2024 | `SQL` `MySQL` `T-SQL` `CRUD` `Table Relationships` |
 | **Advanced SQL - Window Functions** | LinkedIn | Nov 2024 | `SQL` |
 | **Advanced SQL for Application Development** | LinkedIn | Nov 2024 | `SQL` |
-| **Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
+| [**Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
 | **Master SQL Development** | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
 | **Introduction to Transact-SQL** | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
-
 </details>
 
 ## 💼 Business & Professional Skills
