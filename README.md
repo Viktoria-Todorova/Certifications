@@ -48,11 +48,11 @@
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
 | [**MS SQL**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/MS%20SQL%20-%20May%202024%20-%20Certificate.pdf) | SoftUni | Jun 2024 | `SQL` `MySQL` `T-SQL` `CRUD` `Table Relationships` |
-| [**Advanced SQL - Window Functions**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/sql_intermediate%20certificate.pdf) | LinkedIn | Nov 2024 | `SQL` |
-| [**Advanced SQL for Application Development**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Top%20Five%20Things%20to%20Know%20in%20Advanced%20SQL.pdf) | LinkedIn | Nov 2024 | `SQL` |
-| [**Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
-| [**Master SQL Development**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_SQL%20Essential%20Training.pdf) | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
-| [**Introduction to Transact-SQL**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists%20(1).pdf) | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
+| **Advanced SQL - Window Functions** | LinkedIn | Nov 2024 | `SQL` |
+| **Advanced SQL for Application Development** | LinkedIn | Nov 2024 | `SQL` |
+| **Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
+| **Master SQL Development** | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
+| **Introduction to Transact-SQL** | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
 
 </details>
 
@@ -65,8 +65,7 @@
 | [**Communicating with Confidence**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Communicating%20with%20Confidence.pdf) | LinkedIn | Dec 2024 | `Communication` |
 | [**Building Business Relationships**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Building%20Business%20Relationships.pdf) | LinkedIn | N/A | `Business Communication` |
 | [**Effective Listening**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Effective%20Listening.pdf) | LinkedIn | Dec 2024 | `Communication` `Listening Skills` |
-| [**Freelancing Fundamentals**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Building%20Business%20Relationships%20(1).pdf) | Campster | May 2021 | `Freelancing` `Business` |
-| [**Excel Essential Training**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_SQL%20Essential%20Training%20(1).pdf) | LinkedIn | Mar 2022 | `Microsoft Excel` |
+| **Freelancing Fundamentals**| Campster | May 2021 | `Freelancing` `Business` |
 
 </details>
 
