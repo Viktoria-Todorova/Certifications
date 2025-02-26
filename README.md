@@ -27,7 +27,7 @@
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
 | [**AWS Cloud Practitioner Essentials**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/134_3_6604111_1730992196_AWS%20Course%20Completion%20Certificate.pdf) | AWS | Nov 2024 | `AWS` |
-| [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/OCIF2023CA.jpg) | Oracle | Jun 2024 | `Oracle Cloud` `Oracle` |
+| [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/eCertificate.pdf) | Oracle | Jun 2024 | `Oracle Cloud` `Oracle` |
 | [**AWS Essential Training for Developers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate.pdf) | LinkedIn | Nov 2024 | `AWS` |
 | [**AWS Management Console**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate%20(1).pdf) | LinkedIn | Nov 2024 | `AWS` `Cloud Administration` |
 | [**DevOps Foundations: Containers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Containers.pdf) | LinkedIn | Dec 2024 | `DevOps` `Containers` |
