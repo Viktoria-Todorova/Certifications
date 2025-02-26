@@ -9,69 +9,68 @@
 </div>
 
 ## 🐍 Python Development
-
 <details open>
 <summary><b>Expand/Collapse Section</b></summary>
 
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
-| **Python Advanced** | SoftUni | Feb 2025 | `Python` |
-| **Programming Fundamentals with Python** | SoftUni | Dec 2024 | `Python` `HTML` `CSS` `HTTP` `Git` |
-| **Python Data Analysis** | LinkedIn | Nov 2024 | `Python` `Data Analysis` |
+| [**Python Advanced**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/сертификат.pdf) | SoftUni | Feb 2025 | `Python` |
+| [**Programming Fundamentals with Python**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/Certificate_of_Completion.pdf) | SoftUni | Dec 2024 | `Python` `HTML` `CSS` `HTTP` `Git` |
+| [**Python Data Analysis**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Python%20Data%20Analysis%202020.pdf) | LinkedIn | Nov 2024 | `Python` `Data Analysis` |
 
 </details>
 
 ## ☁️ DevOps & Cloud Computing
-
 <details open>
 <summary><b>Expand/Collapse Section</b></summary>
 
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
-| **AWS Cloud Practitioner Essentials** | AWS | Nov 2024 | `AWS` |
-| **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** | Oracle | Jun 2024 | `Oracle Cloud` `Oracle` |
-| **AWS Essential Training for Developers** | LinkedIn | Nov 2024 | `AWS` |
-| **AWS Management Console** | LinkedIn | Nov 2024 | `AWS` `Cloud Administration` |
-| **DevOps Foundations: Containers** | LinkedIn | Dec 2024 | `DevOps` `Containers` |
-| **DevOps Foundations: CI/CD** | LinkedIn | Dec 2024 | `CI/CD` `DevOps` |
-| **DevOps Foundations: DevSecOps** | LinkedIn | Dec 2024 | `DevOps` `Security` |
-| **DevOps Foundations: Infrastructure as Code** | LinkedIn | Dec 2024 | `DevOps` `Infrastructure as Code` |
+| [**AWS Cloud Practitioner Essentials**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/134_3_6604111_1730992196_AWS%20Course%20Completion%20Certificate.pdf) | AWS | Nov 2024 | `AWS` |
+| [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/OCIF2023CA.jpg) | Oracle | Jun 2024 | `Oracle Cloud` `Oracle` |
+| [**AWS Essential Training for Developers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate.pdf) | LinkedIn | Nov 2024 | `AWS` |
+| [**AWS Management Console**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate%20(1).pdf) | LinkedIn | Nov 2024 | `AWS` `Cloud Administration` |
+| [**DevOps Foundations: Containers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Containers.pdf) | LinkedIn | Dec 2024 | `DevOps` `Containers` |
+| [**DevOps Foundations: CI/CD**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Continuous%20DeliveryContinuous%20Integration.pdf) | LinkedIn | Dec 2024 | `CI/CD` `DevOps` |
+| [**DevOps Foundations: DevSecOps**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20DevSecOps%202018.pdf) | LinkedIn | Dec 2024 | `DevOps` `Security` |
+| [**DevOps Foundations: Infrastructure as Code**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Infrastructure%20as%20Code%202017.pdf) | LinkedIn | Dec 2024 | `DevOps` `Infrastructure as Code` |
+| [**DevOps Foundations: Microservices**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Microservices%202019.pdf) | LinkedIn | Dec 2024 | `DevOps` `Microservices` |
+| [**DevOps Foundations: Monitoring and Observability**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Monitoring%20and%20Observability%202018.pdf) | LinkedIn | Dec 2024 | `DevOps` `Monitoring` |
+| [**DevOps Foundations: Site Reliability Engineering**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Site%20Reliability%20Engineering.pdf) | LinkedIn | Dec 2024 | `DevOps` `SRE` |
+| [**Learning Git and GitHub**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Learning%20Git%20and%20GitHub%202021.pdf) | LinkedIn | Dec 2024 | `Git` `GitHub` |
 
 </details>
 
 ## 🗃️ SQL & Databases
-
 <details open>
 <summary><b>Expand/Collapse Section</b></summary>
 
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
-| **MS SQL** | SoftUni | Jun 2024 | `SQL` `MySQL` `T-SQL` `CRUD` `Table Relationships` |
-| **Advanced SQL - Window Functions** | LinkedIn | Nov 2024 | `SQL` |
-| **Advanced SQL for Application Development** | LinkedIn | Nov 2024 | `SQL` |
-| **Advanced SQL for Data Scientists** | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
-| **Master SQL Development** | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
-| **Introduction to Transact-SQL** | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
+| [**MS SQL**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/MS%20SQL%20-%20May%202024%20-%20Certificate.pdf) | SoftUni | Jun 2024 | `SQL` `MySQL` `T-SQL` `CRUD` `Table Relationships` |
+| [**Advanced SQL - Window Functions**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/sql_intermediate%20certificate.pdf) | LinkedIn | Nov 2024 | `SQL` |
+| [**Advanced SQL for Application Development**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Top%20Five%20Things%20to%20Know%20in%20Advanced%20SQL.pdf) | LinkedIn | Nov 2024 | `SQL` |
+| [**Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
+| [**Master SQL Development**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_SQL%20Essential%20Training.pdf) | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
+| [**Introduction to Transact-SQL**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists%20(1).pdf) | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
 
 </details>
 
 ## 💼 Business & Professional Skills
-
 <details>
 <summary><b>Expand/Collapse Section</b></summary>
 
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
-| **Communicating with Confidence** | LinkedIn | Dec 2024 | `Communication` |
-| **Building Business Relationships** | LinkedIn | N/A | `Business Communication` |
-| **Freelancing Fundamentals** | Campster | May 2021 | `Freelancing` `Business` |
-| **Excel Essential Training** | LinkedIn | Mar 2022 | `Microsoft Excel` |
-| **Creating LinkedIn Newsletters** | LinkedIn | Mar 2022 | `Content Creation` `LinkedIn` |
+| [**Communicating with Confidence**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Communicating%20with%20Confidence.pdf) | LinkedIn | Dec 2024 | `Communication` |
+| [**Building Business Relationships**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Building%20Business%20Relationships.pdf) | LinkedIn | N/A | `Business Communication` |
+| [**Effective Listening**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Effective%20Listening.pdf) | LinkedIn | Dec 2024 | `Communication` `Listening Skills` |
+| [**Freelancing Fundamentals**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Building%20Business%20Relationships%20(1).pdf) | Campster | May 2021 | `Freelancing` `Business` |
+| [**Excel Essential Training**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_SQL%20Essential%20Training%20(1).pdf) | LinkedIn | Mar 2022 | `Microsoft Excel` |
 
 </details>
 
 ## 🎨 Design & Other Skills
-
 <details>
 <summary><b>Expand/Collapse Section</b></summary>
 
@@ -86,7 +85,6 @@
 </details>
 
 ---
-
 <div align="center">
 <i>Last updated: February 2025</i>
 </div>
