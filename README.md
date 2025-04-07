@@ -4,7 +4,7 @@
 
 | Python Certs | DevOps & Cloud | SQL & Databases | Other Skills |
 |:------------:|:--------------:|:--------------:|:------------:|
-|      3       |       12       |       10       |      11      |
+|      4       |       12       |       10       |      11      |
 
 </div>
 
@@ -14,9 +14,11 @@
 
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
+| [**Python OOP**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/Python%20OOP%20-%20February%202025%20-%20Certificate.pdf) | SoftUni | Apr 2025 | `Python OOP` `Unit Testing` `SOLID` |
 | [**Python Advanced**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/Python%20Advanced%20-%20January%202025%20-%20Certificate%20(1).pdf) | SoftUni | Feb 2025 | `Python` |
 | [**Programming Fundamentals with Python**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/Programming%20Fundamentals%20with%20Python%20-%20September%202024%20-%20Certificate%20(2).pdf) | SoftUni | Dec 2024 | `Python` `HTML` `CSS` `HTTP` `Git` |
 | [**Python Data Analysis**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Python%20Data%20Analysis%202020.pdf) | LinkedIn | Nov 2024 | `Python` `Data Analysis` |
+
 
 </details>
 
