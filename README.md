@@ -4,7 +4,7 @@
 
 | Python Certs | DevOps & Cloud | SQL & Databases | Other Skills |
 |:------------:|:--------------:|:--------------:|:------------:|
-|      4       |       12       |       10       |      11      |
+|      4       |       12       |       11       |      11      |
 
 </div>
 
@@ -55,6 +55,7 @@
 | [**Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
 | **Master SQL Development** | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
 | **Introduction to Transact-SQL** | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
+| [**pandas Essential Training**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/CertificateOfCompletion_pandas%20Essential%20Training.pdf) | LinkedIn | May 2025 | `Pandas`|
 </details>
 
 ## 💼 Business & Professional Skills
