@@ -2,9 +2,9 @@
 
 <div align="center">
 
-| Python Certs | DevOps & Cloud | SQL & Databases | Other Skills |
-|:------------:|:--------------:|:--------------:|:------------:|
-|      4       |       12       |       11       |      11      |
+| Python Certs | DevOps & Cloud | SQL & Databases | Web Development | Business | Design & Other |
+|:------------:|:--------------:|:--------------:|:----------------:|:---------:|:---------------:|
+|      4       |       12       |       13       |        2         |     4     |        7        |
 
 </div>
 
@@ -18,7 +18,6 @@
 | [**Python Advanced**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/Python%20Advanced%20-%20January%202025%20-%20Certificate%20(1).pdf) | SoftUni | Feb 2025 | `Python` |
 | [**Programming Fundamentals with Python**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/Programming%20Fundamentals%20with%20Python%20-%20September%202024%20-%20Certificate%20(2).pdf) | SoftUni | Dec 2024 | `Python` `HTML` `CSS` `HTTP` `Git` |
 | [**Python Data Analysis**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Python%20Data%20Analysis%202020.pdf) | LinkedIn | Nov 2024 | `Python` `Data Analysis` |
-
 
 </details>
 
@@ -50,12 +49,26 @@
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
 | [**MS SQL**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/MS%20SQL%20-%20May%202024%20-%20Certificate.pdf) | SoftUni | Jun 2024 | `SQL` `MySQL` `T-SQL` `CRUD` `Table Relationships` |
+| [**PostgreSQL**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/PostgreSQL%20-%20September%202025%20-%20Certificate%20(1).pdf) | SoftUni | Sep 2025 | `PostgreSQL` `SQL` `Database Design` |
+| **SQL Intermediate** | LinkedIn | Jun 2024 | `SQL` `Database Queries` |
 | **Advanced SQL - Window Functions** | LinkedIn | Nov 2024 | `SQL` |
 | **Advanced SQL for Application Development** | LinkedIn | Nov 2024 | `SQL` |
 | [**Advanced SQL for Data Scientists**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Advanced%20SQL%20for%20Data%20Scientists.pdf) | LinkedIn | Nov 2024 | `SQL` `Data Analysis` |
 | **Master SQL Development** | LinkedIn | Nov 2024 | `SQL` `PL/SQL` `MySQL` `Database Development` |
 | **Introduction to Transact-SQL** | LinkedIn | Jun 2024 | `T-SQL` `SQL` |
-| [**pandas Essential Training**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/CertificateOfCompletion_pandas%20Essential%20Training.pdf) | LinkedIn | May 2025 | `Pandas`|
+| [**pandas Essential Training**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/CertificateOfCompletion_pandas%20Essential%20Training.pdf) | LinkedIn | May 2025 | `Pandas` |
+
+</details>
+
+## 🌐 Web Development
+<details open>
+<summary><b>Expand/Collapse Section</b></summary>
+
+| Certification | Issuer | Date | Skills |
+|--------------|--------|------|--------|
+| [**HTML & CSS**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/HTML%20&%20CSS%20-%20May%202025%20-%20Certificate%20(1).pdf) | SoftUni | May 2025 | `HTML` `CSS` `Web Design` |
+| [**JS Front-End**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/JS%20Front-End%20-%20June%202025%20-%20Certificate%20(1).pdf) | SoftUni | Jun 2025 | `JavaScript` `Front-End Development` |
+
 </details>
 
 ## 💼 Business & Professional Skills
@@ -67,7 +80,7 @@
 | [**Communicating with Confidence**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Communicating%20with%20Confidence.pdf) | LinkedIn | Dec 2024 | `Communication` |
 | [**Building Business Relationships**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Building%20Business%20Relationships.pdf) | LinkedIn | N/A | `Business Communication` |
 | [**Effective Listening**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Effective%20Listening.pdf) | LinkedIn | Dec 2024 | `Communication` `Listening Skills` |
-| **Freelancing Fundamentals**| Campster | May 2021 | `Freelancing` `Business` |
+| **Freelancing Fundamentals** | Campster | May 2021 | `Freelancing` `Business` |
 
 </details>
 
@@ -86,6 +99,7 @@
 </details>
 
 ---
+
 <div align="center">
-<i>Last updated: February 2025</i>
+<i>Last updated: October 2025</i>
 </div>
