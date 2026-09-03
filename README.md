@@ -4,7 +4,7 @@
 
 | Python Certs | DevOps & Cloud | SQL & Databases | Web Development | Business | Science | Design & Other |
 |:------------:|:--------------:|:--------------:|:----------------:|:---------:|:-------:|:---------------:|
-|      5       |       12       |       15       |        4         |     4     |    1    |        7        |
+|      5       |       14       |       15       |        4         |     4     |    1    |        7        |
 
 </div>
 
@@ -28,10 +28,7 @@
 
 | Certification | Issuer | Date | Skills |
 |--------------|--------|------|--------|
-| [**AWS Cloud Practitioner Essentials**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/134_3_6604111_1730992196_AWS%20Course%20Completion%20Certificate.pdf) | AWS | Nov 2024 | `AWS` |
 | [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](https://github.com/Viktoria-Todorova/Certifications/blob/PB_Excersises/Certifications/eCertificate.pdf) | Oracle | Jun 2024 | `Oracle Cloud` |
-| [**AWS Essential Training for Developers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate.pdf) | LinkedIn | Nov 2024 | `AWS` |
-| [**AWS Management Console**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate%20(1).pdf) | LinkedIn | Nov 2024 | `AWS` |
 | [**DevOps Foundations: Containers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Containers.pdf) | LinkedIn | Dec 2024 | `Containers` |
 | [**DevOps Foundations: CI/CD**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20Continuous%20DeliveryContinuous%20Integration.pdf) | LinkedIn | Dec 2024 | `CI/CD` |
 | [**DevOps Foundations: DevSecOps**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_DevOps%20Foundations%20DevSecOps%202018.pdf) | LinkedIn | Dec 2024 | `Security` |
@@ -42,6 +39,18 @@
 | [**Learning Git and GitHub**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/CertificateOfCompletion_Learning%20Git%20and%20GitHub%202021.pdf) | LinkedIn | Dec 2024 | `Git` |
 
 </details>
+
+## ☁️ AWS ☁️
+<details open>
+<summary><b>Expand/Collapse Section</b></summary>
+
+| Certification | Issuer | Date | Skills |
+|--------------|--------|------|--------|
+| [**AWS Cloud Practitioner Essentials**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/134_3_6604111_1730992196_AWS%20Course%20Completion%20Certificate.pdf) | AWS | Nov 2024 | `AWS` |
+| [**AWS Essential Training for Developers**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate.pdf) | LinkedIn | Nov 2024 | `AWS` |
+| [**AWS Management Console**](https://github.com/Viktoria-Todorova/Certifications/tree/PB_Excersises/Certifications/eCertificate%20(1).pdf) | LinkedIn | Nov 2024 | `AWS` |
+| [**Data Engineering on AWS Foundations**](https://github.com/Viktoria-Todorova/Certifications/blob/main/Certifications/Data%20Engineering%20on%20AWS%20Foundations.pdf) | AWS | Aug 2026 | `AWS` |
+| [**Data Engineering on AWS - Data Lake solutions - with labs**](https://github.com/Viktoria-Todorova/Certifications/blob/main/Certifications/Data%20Engineering%20on%20AWS%20-%20Data%20Lake%20solutions%20-%20with%20labs.pdf) | AWS | Sep 2026 | `AWS` |
 
 ## 🗃️ SQL & Databases
 <details open>
